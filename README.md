@@ -24,6 +24,7 @@ Drawing a fractal tree. Recursion and Python Turtle
 - Python Turtle example
 - Drawing tree
 - Clear, penup, pendown commands
+- Try modifying the values of branches, angles and colors to generate new trees
 
 ### To Play
 
